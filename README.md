@@ -1,2 +1,4 @@
-# moved-to-melowntech
-Melown's github organization was renamed to Melowntech
+# Moved to Melowntech
+Melown's github organization was renamed to Melowntech.
+
+Please continue to [melowntech](https://www.github.com/melowntech).
