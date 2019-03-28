@@ -1,4 +1,4 @@
 # Moved to Melowntech
-Melown's github organization was renamed to Melowntech.
+Melown Technologies SE renamed it's github organization to Melowntech.
 
-Please continue to [melowntech](https://www.github.com/melowntech).
+Please continue to the new [organization homepage](https://www.github.com/melowntech).
